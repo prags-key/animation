@@ -13,7 +13,7 @@ Android Studio(Latest Version)
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as calculator and click Next.
+Step 2: Then type the Application name as AnimOperation and click Next.
 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
